@@ -14,7 +14,10 @@ The system uses computer vision to track vehicles and pedestrians in real-time, 
 - [Usage](#usage)
 - [Model Training](#model-training)
 
-![Videoo](https://github.com/furkankupcu/Yolov11_Crosswalk_Car_Distance/blob/main/Source/watch_v_Y1jTEyb3wiI.mp4)
+
+
+https://github.com/user-attachments/assets/3124c43b-3097-4cbe-8858-ef07c77cace2
+
 
 - [Results](#results)
 - [Contributing](#contributing)
